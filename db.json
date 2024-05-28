@@ -1,0 +1,28 @@
+{
+    "assignments": [
+        {
+            "name": "Read chapter 5",
+            "complete": false,
+            "id": 1,
+            "tag": "reading"
+        },
+        { 
+            "name": "Finish Project", 
+            "complete": false, 
+            "id": 2, 
+            "tag": "programming" 
+        },
+        { 
+            "name": "Finish SAE",
+            "complete": false, 
+            "id": 3, 
+            "tag": "science" 
+        },
+        { 
+            "name": "Turn in homework", 
+            "complete": false, 
+            "id": 4, 
+            "tag": "programming"
+        }
+    ]
+}
